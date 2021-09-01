@@ -20,7 +20,7 @@ Used a brain MRI images data founded on Kaggle.**
 ![Screenshot 2021-09-01 215512](https://user-images.githubusercontent.com/81116984/131708508-5bf60d35-5266-4cc6-9e9d-221dd6f10be4.png)
 
 ## **Data Splitting**
-
+<br />
 The Data is splitted in the following ways:
 <br />
 1. 70% of the data for training.

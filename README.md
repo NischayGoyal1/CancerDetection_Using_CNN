@@ -25,10 +25,10 @@ The Data is splitted in the following ways:
 <br />
 
 1. 70% of the data for training.
-2. <br />
-3. 15% of the data for vaidation
+ <br />
+2. 15% of the data for vaidation
 <br />
-4. 15% of the data for testing
+3. 15% of the data for testing
 
 
 

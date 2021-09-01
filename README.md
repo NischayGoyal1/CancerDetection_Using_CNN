@@ -32,9 +32,9 @@ The Data is splitted in the following ways:
 3. 15% of the data for testing.
 
 ## **Loss and the Accuracy plots**
-![Screenshot 2021-09-01 213531](https://user-images.githubusercontent.com/81116984/131728227-a73a5cdc-bb6f-4a24-8cb8-77b801c81ca9.png)
-<br />
-![Screenshot 2021-09-01 213459](https://user-images.githubusercontent.com/81116984/131728305-39c70d89-3583-438c-a560-e89f75294a0e.png)
+![Screenshot 2021-09-01 213531](https://user-images.githubusercontent.com/81116984/131728227-a73a5cdc-bb6f-4a24-8cb8-77b801c81ca9.png) ![Screenshot 2021-09-01 213459](https://user-images.githubusercontent.com/81116984/131728305-39c70d89-3583-438c-a560-e89f75294a0e.png)
+
+
 
 
 

@@ -5,7 +5,7 @@ Used a brain MRI images data founded on Kaggle.**
 
 ## About the Data set
 
-**[LINK](https://www.kaggle.com/preetviradiya/brian-tumor-dataset)
+**[LINK](https://www.kaggle.com/preetviradiya/brian-tumor-dataset)**
 
 
 

@@ -24,9 +24,9 @@ Used a brain MRI images data founded on Kaggle.**
 The Data is splitted in the following ways:
 <br />
 1. 70% of the data for training.
- <br />
+<br />
 2. 15% of the data for vaidation.
- <br />
+<br />
 3. 15% of the data for testing.
 
 

@@ -7,7 +7,7 @@ Used a brain MRI images data founded on Kaggle.**
 
 **[LINK](https://www.kaggle.com/preetviradiya/brian-tumor-dataset)**
 
-**The Data set contains a folder named BRAIN TUMOR DATA SET along with some CSV files, **
+**The Data set contains a folder named BRAIN TUMOR DATA SET along with some CSV files,**
 **Main folder contains two folders , one contained cancerous images and one with non cancerous \n**
 **The Data set contains around 4500 MRI images**
 

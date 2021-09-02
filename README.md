@@ -63,7 +63,7 @@ ___
 <br />
 ### **Why Mobile Net Architecture**
 **MobileNet is a streamlined architecture that uses depthwise separable convolutions to construct lightweight deep convolutional neural networks, If we deploy our model on real time environment (Hospitals) accuracy plays an important role ,As these are Pre-Trained Models 
-trained over **1 Billion Images** **so they are widely used to increase the accuracy of the ML-Models.**
+trained over** **1 Billion Images** **so they are widely used to increase the accuracy of the ML-Models.**
 
 
 

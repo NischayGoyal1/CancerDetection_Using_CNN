@@ -31,6 +31,17 @@ The Data is splitted in the following ways:
 <br />
 3. 15% of the data for testing.
 
+___
+
+## **Mobile Net Architecture**
+
+### **Undersatnding the Architecture**
+**Each input x (image) has a shape of (224, 224, 3) and is fed into the neural network. And, it goes through the following layers:**
+<br />
+**1.A convolutional layer with 32 filters, with a filter size of (7, 7) and a stride equal to 1**
+**2.A batch normalization layer to normalize pixel values to speed up computation.**
+
+
 ## **Loss and the Accuracy plots**
 ![image](https://user-images.githubusercontent.com/81116984/131894523-43eb0e3d-b18b-438d-bcbe-3839ae8fdd0d.png) ![image](https://user-images.githubusercontent.com/81116984/131894611-68bb8ad7-f2fc-4e04-85a4-c3238cc83109.png)
 

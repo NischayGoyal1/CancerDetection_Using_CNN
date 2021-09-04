@@ -117,7 +117,7 @@ ___
   
   ## **Contributors**
   
-**[Samridhi](![image](https://github.com/samridhikapoor)**
+[Samridhi](![image](https://github.com/samridhikapoor)
 
   
   

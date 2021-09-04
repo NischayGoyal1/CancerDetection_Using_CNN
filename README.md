@@ -80,7 +80,7 @@ ___
 
 ___
 
-## **Approach owards model**
+## **Approach towards model**
 
 ![image](https://user-images.githubusercontent.com/81116984/132089292-48a7d22d-3652-4ab2-bada-6965a7a60816.png)
 

@@ -100,7 +100,8 @@ ___
   #### Accuracy 95.5%
   **These Results are very good considering the**
   <br />
-  **DONUT CHART OF ACCURACY TABLE**
+  **DONUT CHART OF ACCURACY TABLE ->**   ![image](https://user-images.githubusercontent.com/81116984/132093334-09a42f73-ca45-46d2-bb29-330448732f06.png)
+
   
   
 ![Accuracy 2](https://user-images.githubusercontent.com/81116984/132093307-e54d67d7-079d-40e5-a1c3-c4edb4cdc660.png)

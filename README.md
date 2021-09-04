@@ -82,8 +82,10 @@ ___
 
 
 ## **Loss and the Accuracy plots**
-![image](https://user-images.githubusercontent.com/81116984/131894523-43eb0e3d-b18b-438d-bcbe-3839ae8fdd0d.png) 
-![image](https://user-images.githubusercontent.com/81116984/131894611-68bb8ad7-f2fc-4e04-85a4-c3238cc83109.png)
+
+![image](https://user-images.githubusercontent.com/81116984/132092385-11bceb17-3c77-49b6-a9bb-65a88d75dafa.png) ![image](https://user-images.githubusercontent.com/81116984/132092400-3e563eb7-2ef9-454c-82d2-e2d550466a61.png)
+
+
 
 ___
 

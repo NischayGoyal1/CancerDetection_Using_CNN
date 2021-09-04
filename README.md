@@ -44,8 +44,12 @@ ___
 ___
 
 ## **Mobile Net Architecture**
-
+  
 ### **Undersatnding the Architecture**
+  
+  ![Flowchart](https://user-images.githubusercontent.com/81116984/132092130-65ac2f15-3719-426f-9e40-d44a1868e692.png)
+  <br />
+  <br />
 **Each input x (image) has a shape of (224, 224, 3) and is fed into the neural network. And, it goes through the following layers:**
 <br />
 <br />

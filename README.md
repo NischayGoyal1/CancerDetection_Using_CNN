@@ -100,14 +100,15 @@ ___
   #### Accuracy 95.5%
   **These Results are very good considering the**
   <br />
-  **DONUT CHART OF ACCURACY TABLE ->**  ![image](https://user-images.githubusercontent.com/81116984/132093334-09a42f73-ca45-46d2-bb29-330448732f06.png)
+  **DONUT CHART OF ACCURACY TABLE ->** 
+                            ![image](https://user-images.githubusercontent.com/81116984/132093334-09a42f73-ca45-46d2-bb29-330448732f06.png)
 
   
  
   
   ___
   
-  ## **Contributors**
+  # **Contributors**
   
 ### [Samridhi](https://github.com/samridhikapoor)
 ### [Niranjan](https://github.com/NiranjanHebli)

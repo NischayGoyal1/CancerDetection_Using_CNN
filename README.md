@@ -96,24 +96,16 @@ ___
  ## Results
   
   **Now the best models with best accuracy detects the brain tumor with accuracy**
-  #### 95.5%
+  <br />
+  #### Accuracy 95.5%
+  **These Results are very good considering the**
+  <br />
+  **DONUT CHART OF ACCURACY TABLE**
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+![Accuracy 2](https://user-images.githubusercontent.com/81116984/132093307-e54d67d7-079d-40e5-a1c3-c4edb4cdc660.png)
+
+ 
   
   ___
   

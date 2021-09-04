@@ -85,14 +85,42 @@ ___
 
 ![image](https://user-images.githubusercontent.com/81116984/132092385-11bceb17-3c77-49b6-a9bb-65a88d75dafa.png) ![image](https://user-images.githubusercontent.com/81116984/132092400-3e563eb7-2ef9-454c-82d2-e2d550466a61.png)
 
-
-
 ___
 
 ## **Approach towards model**
 
 ![image](https://user-images.githubusercontent.com/81116984/132089292-48a7d22d-3652-4ab2-bada-6965a7a60816.png)
 
+___
+  
+ ## Results
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ___
+  
+  ## **Contributors**
+  
+** [Samridhi](![image](https://user-images.githubusercontent.com/81116984/132092400-3e563eb7-2ef9-454c-82d2-e2d550466a61.png)**
+
+  
+  
 
 
 

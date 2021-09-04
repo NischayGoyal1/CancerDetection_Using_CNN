@@ -45,7 +45,7 @@ ___
 
 ## **Mobile Net Architecture**
   
-### **Undersatnding the Architecture**
+### **Understanding the Architecture**
   
   ![Flowchart](https://user-images.githubusercontent.com/81116984/132092130-65ac2f15-3719-426f-9e40-d44a1868e692.png)
   <br />

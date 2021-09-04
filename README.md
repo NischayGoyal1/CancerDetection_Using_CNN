@@ -95,6 +95,8 @@ ___
   
  ## Results
   
+  **Now the best models with best accuracy detects the brain tumor with accuracy**
+  #### 95.5%
   
   
   
